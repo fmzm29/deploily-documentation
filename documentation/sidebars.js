@@ -92,6 +92,14 @@ module.exports = {
                 },
                 {
                   type: 'doc',
+                  id: 'applications/odoo/odoo-cashflow',
+                },
+                {
+                  type: 'doc',
+                  id: 'applications/odoo/odoo-contact',
+                },
+                {
+                  type: 'doc',
                   id: 'applications/odoo/odoo-vente',
                 }, 
                 {
@@ -126,7 +134,7 @@ module.exports = {
             },
             {
               type: 'category',
-              label: 'Scénarios de déploiement',
+              label: 'Scénarios de déploiement',
               items: [
            
                 { type: 'doc',
@@ -137,22 +145,6 @@ module.exports = {
                 },
               ],
             },
-            
-         
-         
-         
-         
-          
-           
-       
-       
-      
-       
-       
-       
-           
-          
-           
           ]
         
         },
@@ -173,5 +165,3 @@ module.exports = {
     },
   ],
 };
-
-
